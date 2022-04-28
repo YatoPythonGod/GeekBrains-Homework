@@ -55,4 +55,3 @@ swat_car.go()
 swat_car.turn('направо')
 swat_car.stop()
 swat_car.show_speed()
-

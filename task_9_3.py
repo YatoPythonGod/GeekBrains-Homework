@@ -18,5 +18,3 @@ person_1 = Position('Ivan', 'Ivanov', 'manager', 10000, 5000)
 print(person_1.name)
 print(person_1.get_full_name())
 print(person_1.get_total_income())
-
-
